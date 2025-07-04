@@ -31,7 +31,7 @@ const Work = () => {
 
             {/* Send Icon */}
             <div className="border rounded-full border-black w-9 aspect-square absolute 
-                            flex items-center justify-center bottom-8 right-10 group-hover:bg-lime-300 
+                            flex items-center justify-center bottom-8 right-8 group-hover:bg-lime-300 
                             transition duration-300 ease-in-out">
               <Image src={assets.send_icon} alt="Send Icon" className="w-5" />
             </div>
